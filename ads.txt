@@ -1,0 +1,3 @@
+# Add the exact publisher declaration supplied by Google AdSense after your site is approved/connected.
+# Example format only; do not publish a made-up publisher ID:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
